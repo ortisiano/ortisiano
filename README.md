@@ -1,78 +1,56 @@
 <div align="center">
 
-# 🤖 Carlos (`@ortisiano`) · Agentic AI & Local-First Apps
+# Carlos · `@ortisiano`
 
-**Diseñando agentes de IA útiles, herramientas *Local-First* y aplicaciones abiertas con privacidad desde el diseño.**
+<a href="https://dinnerkids.es">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=FF6B35&center=true&vCenter=true&width=580&lines=Aplicaciones+web+gratuitas+y+abiertas;Sin+anuncios+%E2%80%A2+Sin+registros+%E2%80%A2+Sin+rastreadores;Herramientas+%C3%BAtiles+para+el+d%C3%ADa+a+d%C3%ADa" alt="Aplicaciones web gratuitas y abiertas">
+</a>
 
-![Status](https://img.shields.io/badge/Agent_Orchestrator-Online-8B5CF6?style=for-the-badge)
-![Privacy](https://img.shields.io/badge/Guardrails-Zero_PII_Retention-06B6D4?style=for-the-badge)
-![Edge](https://img.shields.io/badge/Runtime-Cloudflare_Edge-10B981?style=for-the-badge)
+**Hago aplicaciones web gratuitas, abiertas y sin anuncios para hacer el día a día más fácil.**  
+<sub>Sin registros · Sin rastreadores · Tus datos se quedan en tu dispositivo</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<br>
+
+<a href="https://dinnerkids.es">
+  <img src="https://dinnerkids.es/assets/logo.png" width="110" alt="DinnerKids Logo">
+</a>
+
+## 🌙 DinnerKids
+**Planificador inteligente de cenas infantiles según el menú del cole**
+
+Planifica las cenas de toda la semana sin repetir lo que los peques ya han comido en el comedor escolar.<br>
+Incluye **108 recetas paso a paso**, filtro de alergias, buscador por ingredientes de nevera y lista de la compra.
+
+<br>
+
+<p>
+  <a href="https://dinnerkids.es"><img src="https://img.shields.io/badge/%E2%96%B6_Abrir_Aplicaci%C3%B3n-dinnerkids.es-FF6B35?style=for-the-badge" alt="Abrir DinnerKids"></a>&nbsp;&nbsp;
+  <a href="https://github.com/ortisiano/dinnerkids"><img src="https://img.shields.io/badge/C%C3%B3digo_Abierto-GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Código en GitHub"></a>&nbsp;&nbsp;
+  <a href="https://dinnerkids.es/privacidad.html"><img src="https://img.shields.io/badge/Privacidad-RGPD_100%25_Local-2D6A4F?style=for-the-badge" alt="Privacidad"></a>
+</p>
+
+<br>
 
 </div>
 
 ---
 
-### ⚡ Pipeline de Agentes & Privacidad en el Edge
+<div align="center">
 
-```text
-[ Dispositivo del Usuario ] ──► [ Guardrail RGPD + Anti-Prompt-Injection ] ──► [ Agente IA en Cloudflare Edge ]
-             ▲                                                                                │
-             └──────────────◄── [ Respuesta Estructurada · 0 Datos en Servidor ] ◄────────────┘
-```
-
----
-
-### 🧠 Agentes y Aplicaciones en Producción
-
-<table>
-  <tr>
-    <td width="68%">
-      <h4>🌙 <a href="https://dinnerkids.es">DinnerKids</a> · <code>Agent-01 (Nutrition & Vision)</code></h4>
-      <p>
-        Planificador y agente inteligente de cenas infantiles que interpreta el menú del comedor escolar (mediante visión artificial OCR y motor local determinista), evita repetir grupos nutricionales, filtra alérgenos e intolerancias y genera la lista de la compra semanal.
-      </p>
-      <p>
-        <a href="https://dinnerkids.es">🌐 <b>dinnerkids.es</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/ortisiano/dinnerkids">💻 <b>Código Abierto en GitHub</b></a>
-      </p>
-    </td>
-    <td width="32%">
-      <kbd>Claude Haiku Vision</kbd><br>
-      <kbd>Cloudflare Workers</kbd><br>
-      <kbd>Zero-PII Sanitizer</kbd><br>
-      <kbd>PWA 100% Local</kbd>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <i>🤖 <code>Agent-02</code> · Nuevo agente autónomo y herramienta abierta en entrenamiento...</i>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛡️ Principios de Ingeniería (Guardrails)
-
-| Pilar | Implementación |
-|---|---|
-| **Zero-Data Guardrails** | Anonimización automática en el propio dispositivo (`anonymizePII` + `B-02`) antes de consultar cualquier modelo de IA. |
-| **Arquitectura Híbrida** | Motores instantáneos en el navegador (0 ms, 0 coste, offline) combinados bajo demanda con agentes ligeros en el Edge. |
-| **Privacidad por Diseño** | Sin cuentas de usuario, sin cookies de rastreo y sin bases de datos con información sensible. |
-
----
-
-### ☕ Recarga de Tokens & Soporte Independiente
-
-Si mis agentes y aplicaciones te ahorran tiempo cada semana, puedes apoyar el desarrollo para cubrir costes de inferencia de IA y servidores:
+**¿Te resultan útiles mis herramientas?**  
+Todas mis aplicaciones son gratuitas y abiertas. Si te ayudan en tu día a día y quieres apoyar que sigan activas:
 
 <p>
-  <a href="https://ko-fi.com/ortisiano">
-    <img src="https://img.shields.io/badge/Ko--fi-Invitar_a_un_Café-8B5CF6?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/ortisiano">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-06B6D4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
-  </a>
+  <a href="https://ko-fi.com/ortisiano"><img src="https://img.shields.io/badge/Ko--fi-Invitar_a_un_caf%C3%A9-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>&nbsp;&nbsp;
+  <a href="https://github.com/sponsors/ortisiano"><img src="https://img.shields.io/badge/GitHub_Sponsors-Apoyar-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
 </p>
 
+</div>
